@@ -1,7 +1,2 @@
-1. git init // Initialized empty Git repository in C:/Users/hp/Desktop/sites/craft-common-12/.git/
-             //our local repository is created master.
-
-2.git status // On branch master No commits yet nothing to commit (create/copy files and use "git add" to track)
-
-
+1. git clone // making a copy of remote repository into local repository
 
