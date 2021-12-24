@@ -1,2 +1,2 @@
 1. git clone // making a copy of remote repository into local repository
-
+	      or copy of the target repository.
